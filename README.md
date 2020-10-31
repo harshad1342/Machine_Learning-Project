@@ -1,8 +1,8 @@
 # Machine_Learning-Project
 
 ## Model use : 
-### 1) Classification
-### 2) Regression
-### 3) SVM
+### 1) Simple Linear Regression
+### 2) Logistic Regression
+### 3) KNN 
 ### 4) Decision Tree
-### 5) RandomForest
+### 5) Clustering
